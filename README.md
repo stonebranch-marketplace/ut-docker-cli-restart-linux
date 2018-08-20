@@ -151,7 +151,7 @@ Image5
 
 The following chapter describes the provided docker-cli Universal Tasks.
 
-# 6.1	Stop Container
+# 6.1	Restart Container
 Image6
 
 ![](images/image6.png)
